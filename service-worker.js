@@ -1,4 +1,4 @@
-const CACHE_NAME = 'plantation-cache-v1';
+const CACHE_NAME = 'disciplinas-cache-v1';
 const urlsToCache = [
     '/',
     '/index.html',
